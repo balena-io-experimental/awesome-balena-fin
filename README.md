@@ -4,6 +4,31 @@ A curated list of helpful balenaFin resources.
 
 ## Table of Contents
 
+* [Getting Started](#getting-started)
+* [Projects](#projects)
+* [Documentation](#documentation)
+* [Firmata](#firmata)
+* [Contributing](#contributing)
+* [License](#license)
+
+## Getting Started
+
+* [Setting Up the Fin](https://www.balena.io/fin/1.1/docs/getting-started), instructions for setting up the balenaFin
+
+## Projects
+
+* [TTN Gateway](https://github.com/balena-io-playground/ttn-gateway-balenafin), a TTN Gateway using the balenaFin with a RAK833 mPCIe LoRa concentrator module 
+* [GPS Tracker](https://github.com/balena-io-playground/gps-tracker), a GPS tracker built with balenaFin and a Quectel EC25 modem 
+* [Edge TPU Web Streamer](https://github.com/balena-io-playground/egde-tpu-web-streamer), webstreaming classification with Google Edge TPU on the pi-camera and balenaFin 
+
+## Documentation
+
+* [Documentation](https://github.com/balena-io/balena-fin), Datasheets, Schematics, Design Files, etc.
+
+## Firmata
+
+* [Firmata Flash](https://github.com/balena-io-playground/balena-fin-firmata-flash), a BalenaFin application to flash the on-board co-processor with Firmata firmware 
+
 ## Contributing
 
 Created something cool our found something interesting online? Send us a pull request!
